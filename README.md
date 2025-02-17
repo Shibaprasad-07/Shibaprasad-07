@@ -1,4 +1,4 @@
-![logo](https://github.com/Shibaprasad-07/Shibaprasad-07/blob/main/Banner.png)
+![logo](https://github.com/Shibaprasad-07/Shibaprasad-07/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Shiba Prasad Sethi</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
