@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on github and linkedin profile.
 - 📫 How to reach me: Go on my Github page.
-- 😄 Pronouns: Check out on my Github profile.
+- 😄 Pronouns: Check in my Github profile.
 - ⚡ Fun fact: I am a charming guy and i also passionable about my skills.
 
 <!---
