@@ -6,10 +6,8 @@
 
 <!-- Motivational Quote -->
 <h2>🌟 "Code is Poetry, Logic is Art" 🌟</h2>
-<h3>Full Stack Developer | Dream Builder | Problem Solver 🇮🇳</h3>
+<h3>Web Developer | Dream Builder | Problem Solver 🇮🇳</h3>
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Crafting+Digital+Experiences;💡+Solving+Problems+Through+Code;🌟+Building+Tomorrow's+Technology;⚡+Passionate+Full+Stack+Developer" alt="Motivational Typing" />
 
 <!-- Profile Stats -->
 <p>
@@ -54,7 +52,7 @@
 const shibaPrasad = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
-    role: "Full Stack Developer",
+    role: "Web Developer",
     languages: ["JavaScript", "Java", "HTML", "CSS"],
     frameworks: ["React", "Node.js", "Express"],
     databases: ["MongoDB", "MySQL"],
@@ -75,8 +73,7 @@ const shibaPrasad = {
 </td>
 <td width="50%">
 
-<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
+<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 📈 **Quick Stats**
 
 <div align="center">
@@ -89,9 +86,9 @@ const shibaPrasad = {
 
 ```yaml
 code: ["Clean Architecture", "Best Practices"]
-design: ["UI/UX", "Responsive Design"]
+design: ["Responsive Design"]
 learning: ["New Technologies", "Problem Solving"]
-hobbies: ["Open Source", "Tech Blogs", "Coding"]
+hobbies: ["Open Source", "Coding"]
 ```
 
 </td>
@@ -186,14 +183,6 @@ hobbies: ["Open Source", "Tech Blogs", "Coding"]
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/shibaprasad-07/shibaprasad-07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
