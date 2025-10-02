@@ -1,44 +1,167 @@
-![logo](https://github.com/Shibaprasad-07/Shibaprasad-07/blob/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header.png)
-<h1 align="center">Hi 👋, I'm Shiba Prasad Sethi</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<!-- =========================
+     Profile README (modern)
+     Replace placeholders where noted
+     ========================= -->
 
-<img align="right" width="400" alt="coding" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibaprasad-07&label=Profile%20views&color=0e75b6&style=flat" alt="shibaprasad-07" /> </p>
-
-- 🌱 I’m currently learning full stack web development.
-
--  👀 I’m interested in coding and deploying in various technologies.
-
-- 💞 I’m looking to collaborate on github and linkedin profile.
-
--📫 How to reach me:Check in my Github profile.
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/shibaprasad-07/sites](https://app.netlify.com/teams/shibaprasad-07/sites)
-
-- 📫 How to reach me **sethishibaprasad2@gmail.com**
-
-- ⚡ Fun fact **I am a funny ang cheerful guy and i also passionable about my skills.🤩**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shibaprasad sethi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibaprasad sethi" height="30" width="40" /></a>
-<a href="https://instagram.com/ur_trustly_kanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur_trustly_kanha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sethishibaprasa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sethishibaprasa1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shiba-999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiba-999" height="30" width="40" /></a>
+<!-- Header / Hero -->
+<p align="center">
+  <img src="https://github.com/Shibaprasad-07/Shibaprasad-07/raw/main/Blue%20Yellow%20Retro%20Quotes%20Twitter%20Header.png" alt="logo" width="100" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>ml5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/ht</p>
+<h1 align="center">Hi 👋, I'm Shiba Prasad Sethi</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibaprasad-07&show_icons=true&locale=en&layout=compact" alt="shibaprasad-07" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shibaprasad-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;
+  <!-- Social badges (replace the links with your real links if different) -->
+  <a href="https://www.linkedin.com/in/shibaprasad-sethi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ur_trustly_kanha"><img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+  <a href="mailto:sethishibaprasad2@gmail.com"><img src="https://img.shields.io/badge/Email-%20Contact-success?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibaprasad-07&show_icons=true&locale=en" alt="shibaprasad-07" /></p>
+---
 
+## 👨‍💻 About me
+- 🌱 Currently learning and building full-stack web apps (Node, Express, MongoDB, React).  
+- 👀 Interested in coding, deploying, and collaborating on open-source projects.  
+- 💞️ Looking to collaborate — GitHub & LinkedIn are the best ways to reach me.  
+- ⚡ Fun fact: I’m a cheerful, funny guy who’s passionate about improving my skills! 🤩
 
-<!---
-Shibaprasad-07/Shibaprasad-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Projects:** https://app.netlify.com/teams/shibaprasad-07/sites  
+**Email:** <a href="mailto:sethishibaprasad2@gmail.com">sethishibaprasad2@gmail.com</a>
+
+---
+
+## 🔧 Tech stack (click icons to visit)
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML5" /><br>HTML5
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.w3schools.com/css/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" /><br>CSS3
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" /><br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://nodejs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" alt="Node.js" /><br>Node.js
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://expressjs.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" alt="Express" /><br>Express
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.mongodb.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="MongoDB" /><br>MongoDB
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="MySQL" /><br>MySQL
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://reactjs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" alt="React" /><br>React
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://getbootstrap.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" alt="Bootstrap" /><br>Bootstrap
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://tailwindcss.com/">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" alt="TailwindCSS" /><br>TailwindCSS
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.java.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="Java" /><br>Java
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://git-scm.com/">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="Git" /><br>Git
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Skills (quick view)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?logo=javascript&style=for-the-badge" alt="JS" />
+  <img src="https://img.shields.io/badge/React-75%25-61DAFB?logo=react&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-78%25-339933?logo=node.js&style=for-the-badge" alt="Node" />
+  <img src="https://img.shields.io/badge/MongoDB-72%25-47A248?logo=mongodb&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express-70%25-000000?logo=express&style=for-the-badge" alt="Express" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+<p align="left">
+  <!-- Top languages & main cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shibaprasad-07&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibaprasad-07&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibaprasad-07&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<p align="left">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shibaprasad-07&theme=calm&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📌 Pinned projects
+<!-- Replace REPO_NAME in the URLs below with your actual repo names -->
+<p align="left">
+  <a href="https://github.com/shibaprasad-07/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shibaprasad-07&repo=REPO_NAME_1" alt="Pinned Repo 1" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shibaprasad-07/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shibaprasad-07&repo=REPO_NAME_2" alt="Pinned Repo 2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shibaprasad-07/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shibaprasad-07&repo=REPO_NAME_3" alt="Pinned Repo 3" />
+  </a>
+</p>
+
+> **Tip:** open your repo page and copy the exact repo slug (case-sensitive) to `REPO_NAME_1`, etc.
+
+---
+
+## 🤝 Let's connect
+<p>
+  <a href="mailto:sethishibaprasad2@gmail.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/shibaprasad-07"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/shibaprasad-sethi"><img src="https://img.shields.io/badge/LinkedIn-Message-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">Made with ❤️ • Keep learning & building ✨</p>
